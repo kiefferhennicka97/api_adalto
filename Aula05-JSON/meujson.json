@@ -1,0 +1,3 @@
+{
+"nome" : "maria","altura" : 1.77, "casado" : true, "telefone": ["(11)111111111", "(22)22222222"], "filhos" : [{"nome" : "pedro","idade": 15},{"nome": "maria","idade": 17}],"conjuge" : {"nome" : "josé", "idade": 45},"endereço": null
+}
